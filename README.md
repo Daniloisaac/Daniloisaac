@@ -10,17 +10,18 @@ h2>
 
 ### <div bemvindo ></div>
 
-<div align="center">
+<div style="display: inline-block" align="center" painel>
   <a href="https://github.com/Daniloisaac">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Daniloisaac&show_icons=true&count_private=true&theme=dark&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=0d1117"/></a>
-  
-### <div painel ></div>
-
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daniloisaac&layout=compact&langs_count=7&theme=dark_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Daniloisaac&show_icons=true&count_private=true&theme=dark&include_all_commits=true&theme=react&hide_border=true&title_color=4eb3de&text_color=eee9e5&bg_color=0D1117"/></a>
+  <a href="https://github.com/Daniloisaac/github-readme-stats"><img height="165em" alt="Danilo isaac linguagem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daniloisaac&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117"/>
+	</a>
 </div>
-<div style="display: inline_block"><br>
+  </div>
+  
+
+<div>
+ <div style="display:  inline-block"><br>
  
-### <div linguas ></div>
 
   <img align="right" alt="yasuo-pic" height="150" style="border-radius:50px;" src="https://c.tenor.com/fgQOn7jbs_AAAAAC/yasuo.gif(https://c.tenor.com/fgQOn7jbs_AAAAAC/yasuo.gif))">
 </div>
