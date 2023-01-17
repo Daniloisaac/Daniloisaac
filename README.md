@@ -1,6 +1,6 @@
 <h1 align="center">Olá <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">, Meu Nome é Danilo isaac</h1>
 
-<h3 align="center">sou estudante de Dev. Web na Trybe!!!</h3>
+<h3 align="center"> Software Developer, me formando na Trybe!!!</h3>
 
 ### <div titulo ></div>
 
