@@ -11,17 +11,6 @@ h2>
 ### <div bemvindo ></div>
 
 
-
-<div style="display: inline-block" align="center" painel>
-  <a href="https://github.com/Daniloisaac">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Daniloisaac&show_icons=true&count_private=true&theme=dark&include_all_commits=true&theme=react&hide_border=true&title_color=4eb3de&text_color=eee9e5&bg_color=0D1117"/></a>
-  <a href="https://github.com/Daniloisaac/github-readme-stats"><img height="165em" alt="Danilo isaac linguagem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daniloisaac&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117"/>
-	</a>
-</div>
-
-  
-  
-
 <div>
 
 <div style="display: inline_block" align = 'center'><br> <h2> skills </h2>
