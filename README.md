@@ -11,6 +11,14 @@ h2>
 ### <div bemvindo ></div>
 
 
+<div id="stats" align="center">
+  
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Daniloisaac&show_icons=true&border_color=FFF&bg_color=0D1117&theme=tokyonight)
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Daniloisaac&layout=compact&border_color=FFF&bg_color=0D1117&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>
+
 <div>
 
 <div style="display: inline_block" align = 'center'><br> <h2> skills </h2>
