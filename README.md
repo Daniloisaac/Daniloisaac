@@ -16,6 +16,46 @@ Olá <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/
 </div>
 
 <div>
+<!--	
+<h3>Projetos</h3>
+	
+<table>
+  <thead align="center">
+    <tr border: none;>
+      <td><b>Projects</b></td>
+      <td><b>Skills</b></td>
+      <td><b>Issues</b></td>
+      <td><b>Pull requests</b></td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://github.com/marcodotcastro/sale-factory"><b>Sales Factory</b></a></td>
+      <td>Business / Developer</td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/marcodotcastro/sale-factory?style=flat-square&labelColor=343b41" /></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/marcodotcastro/sale-factory?style=flat-square&labelColor=343b41" /></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/marcodotcastro/portal-agro"><b>Portal Agro</b></a></td>
+      <td>Business / Developer</td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/marcodotcastro/portal-agro?style=flat-square&labelColor=343b41" /></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/marcodotcastro/portal-agro?style=flat-square&labelColor=343b41" /></td>
+    </tr>
+    <tr>	
+      <td><a href="https://github.com/marcodotcastro/application-lifecycle-management"><b>ALM / CI</b></a></td>
+      <td>DevOps</td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/marcodotcastro/application-lifecycle-management?style=flat-square&labelColor=343b41" /></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/marcodotcastro/application-lifecycle-management?style=flat-square&labelColor=343b41" /></td>
+    </tr>
+    <tr>	
+      <td><a href="https://github.com/marcodotcastro/study-rails-vs-phoenix-vs-laravel"><b>Rails vs Phoenix vs Laravel</b></a></td>
+      <td>Developer</td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/marcodotcastro/study-rails-vs-phoenix-vs-laravel?style=flat-square&labelColor=343b41" /></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/marcodotcastro/study-rails-vs-phoenix-vs-laravel?style=flat-square&labelColor=343b41" /></td>
+    </tr>
+  </tbody>
+</table>
+-->
 
 <div style="display: inline_block"><br> <h2> Skills </h2>
 	
